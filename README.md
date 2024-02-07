@@ -11,7 +11,6 @@ Hint System: If a guess is incorrect, the game provides hints about whether the 
 Game Loop: The game continues until the player correctly guesses the number.<br>
 <br>
 How to Play:<br>
-<br>
 Run the Python script.<br>
 The computer will randomly select a number within a predefined range.<br>
 Enter your guess when prompted.<br>
